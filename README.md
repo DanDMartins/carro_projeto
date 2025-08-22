@@ -26,20 +26,20 @@ This project allows you to simulate basic car actions such as starting, stopping
  Execute o programa | Run the program  
  python main.py
 
- 🛠️ Funcionalidades | Features
-Ligar/Desligar o carro | Start/Stop the car
-Acelerar/Frear | Accelerate/Brake
-Virar para esquerda/direita | Turn left/right
-Trocar marchas (0 a 6) | Shift gears (0 to 6)
+ 🛠️ Funcionalidades | Features<br>
+Ligar/Desligar o carro | Start/Stop the car<br>
+Acelerar/Frear | Accelerate/Brake<br>
+Virar para esquerda/direita | Turn left/right<br>
+Trocar marchas (0 a 6) | Shift gears (0 to 6)<br>
 Ver status atual | View current status
 
-📂 Estrutura do Projeto | Project Structure
-[carro.py](http://_vscodecontentref_/0)         # Classe Carro | Car class
+📂 Estrutura do Projeto | Project Structure<br>
+[carro.py](http://_vscodecontentref_/0)         # Classe Carro | Car class<br>
 [main.py](http://_vscodecontentref_/1)          # Menu interativo | Interactive menu
 
-👨‍💻 Autor | Author
+👨‍💻 Autor | Author<br>
 Dan Martins / github.com/DanDMartins
 
-📝 Licença | License
-Este projeto está sob a licença MIT.
+📝 Licença | License<br>
+Este projeto está sob a licença MIT.<br>
 This project is licensed under the MIT License.
